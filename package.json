@@ -1,12 +1,15 @@
 {
-  "name": "size-to-print",
+  "name": "sketch-size-to-print",
   "description": "Sketch plugin to scale a selected layer to print size matching pixels to mm.",
   "version": "0.1.0",
+  "author": "Benjamin Wiederkehr <benjamin@interactivethings.com>",
+  "repository": "https://github.com/wiederkehr/sketch-size-to-print",
+  "license": "MIT",
   "engines": {
     "sketch": ">=49.0"
   },
   "skpm": {
-    "name": "sketch-size-to-print",
+    "name": "Sketch Size to Print",
     "manifest": "src/manifest.json",
     "main": "sketch-size-to-print.sketchplugin",
     "assets": [
