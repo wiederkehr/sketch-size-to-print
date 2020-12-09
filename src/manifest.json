@@ -8,6 +8,8 @@
       "script": "./sketch-size-to-print.js"
     }
   ],
+  "name": "Size to Print",
+  "author": "Benjamin Wiederkehr ",
   "menu": {
     "title": "Size to Print",
     "items": [

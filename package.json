@@ -1,5 +1,5 @@
 {
-  "name": "sketch-size-to-print",
+  "name": "size-to-print",
   "description": "Sketch plugin to scale a selected layer to print size matching pixels to mm.",
   "version": "0.1.0",
   "engines": {
